@@ -4,8 +4,11 @@ Bem vindo(a) 🤓
 
 
 Olá, Meu nome é Renata Silva, mas pode me chamar de Re, sou estudante de Análise e desenvolvimento de sistemas busco me aprimorar pela UDEMY e ONEBITCODE. Meu objetivo é explorar tudo que é possível até a conclusão da minha faculdade (prevista para 2025).
+
 Estudante de programação 
+
 Designer Gráfico
+
 marketing digital 
 
 
