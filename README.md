@@ -36,3 +36,17 @@ marketing digital
 
 
 
+
+
+
+
+<!--- Snake: --->
+
+![Snake animation](https://github.com/wendelschimitz10/wendelschimitz10/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
+
+
+
